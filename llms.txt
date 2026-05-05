@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Notun Diner Michile |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/notun-diner-michile/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচিন দেশে আজ হারিয়েছি আবার
+> খুঁজে ফিরি এই প্রেমেরই মিনার
+> হৃদয়ের ডাকে আজ ব্যাকুল প্রহর
+> খালি হাতে আমি ছুঁয়েছি অধর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
