@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Notun Diner Michile
+
+This log tracks the cryptographic history and versioning for the song **Notun Diner Michile** (notun-diner-michile).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:46:00.131057 | `v1` | `0e409eb06dd86580e8fccf91010af8d9251a77f9b8c668b128da9ee3a33fa2d6` | `f919c5d3c129e67d1ebf3abc1fc048317e2fbabd4c61018914ea6ac48d2cf1b1` | `2026-05-08_notun-diner-michile-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
